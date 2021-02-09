@@ -1,0 +1,13 @@
+body, h1, h3, p, ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: Georgia, serif;
+    color: #252525;
+}
+
+.menu {
+    background: #252525;
+}
